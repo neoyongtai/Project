@@ -123,125 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &182722008
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1513739405024476119, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1617609643154508832, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3160839723901724087, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 60
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6688243709817351757, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_Name
-      value: FourStrikersTwoGoalies (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6689367088318232523, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.01
-      objectReference: {fileID: 0}
-    - target: {fileID: 6689367088973521698, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_TagString
-      value: blueAgent
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720208258876680239, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720220312005169641, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720397545466523147, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6723135608590397689, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8273250869603581694, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c40505486226ac9458881275ff4109ba, type: 3}
 --- !u!1001 &224390770
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -287,37 +168,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5889392e3f05b448a8a06c5def6c2dec, type: 3}
---- !u!1001 &267873227
+--- !u!1001 &822429171
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1513739405024476119, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1617609643154508832, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3160839723901724087, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 50
+      value: 49.7
       objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
@@ -327,7 +193,7 @@ PrefabInstance:
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 30
+      value: 32.9
       objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
@@ -369,184 +235,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: FourStrikersTwoGoalies (5)
       objectReference: {fileID: 0}
-    - target: {fileID: 6689367088318232523, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.01
-      objectReference: {fileID: 0}
-    - target: {fileID: 6689367088973521698, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_TagString
-      value: blueAgent
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720208258876680239, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720220312005169641, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720397545466523147, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6723135608590397689, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8273250869603581694, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c40505486226ac9458881275ff4109ba, type: 3}
---- !u!1001 &308343273
+--- !u!1001 &912467420
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1513739405024476119, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1617609643154508832, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3160839723901724087, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6688243709817351757, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_Name
-      value: FourStrikersTwoGoalies (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6689367088318232523, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.01
-      objectReference: {fileID: 0}
-    - target: {fileID: 6689367088973521698, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_TagString
-      value: blueAgent
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720208258876680239, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720220312005169641, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720397545466523147, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6723135608590397689, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8273250869603581694, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c40505486226ac9458881275ff4109ba, type: 3}
---- !u!1001 &1381027568
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1513739405024476119, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1617609643154508832, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3160839723901724087, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_RootOrder
@@ -565,7 +262,7 @@ PrefabInstance:
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 30
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
@@ -605,42 +302,76 @@ PrefabInstance:
     - target: {fileID: 6688243709817351757, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_Name
-      value: FourStrikersTwoGoalies (1)
+      value: FourStrikersTwoGoalies
       objectReference: {fileID: 0}
-    - target: {fileID: 6689367088318232523, guid: c40505486226ac9458881275ff4109ba,
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c40505486226ac9458881275ff4109ba, type: 3}
+--- !u!1001 &1253570450
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.01
+      propertyPath: m_RootOrder
+      value: 11
       objectReference: {fileID: 0}
-    - target: {fileID: 6689367088973521698, guid: c40505486226ac9458881275ff4109ba,
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
-      propertyPath: m_TagString
-      value: blueAgent
+      propertyPath: m_LocalPosition.x
+      value: 44.6
       objectReference: {fileID: 0}
-    - target: {fileID: 6720208258876680239, guid: c40505486226ac9458881275ff4109ba,
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720220312005169641, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720397545466523147, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
+      propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6723135608590397689, guid: c40505486226ac9458881275ff4109ba,
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
-      propertyPath: position
+      propertyPath: m_LocalPosition.z
+      value: 84.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8273250869603581694, guid: c40505486226ac9458881275ff4109ba,
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688243709817351757, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_Name
+      value: FourStrikersTwoGoalies (7)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c40505486226ac9458881275ff4109ba, type: 3}
@@ -718,28 +449,13 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
---- !u!1001 &1509082409
+--- !u!1001 &1502282713
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1513739405024476119, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1617609643154508832, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3160839723901724087, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_RootOrder
@@ -748,7 +464,7 @@ PrefabInstance:
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 50
+      value: 45.5
       objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
@@ -758,126 +474,7 @@ PrefabInstance:
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6688243709817351757, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_Name
-      value: FourStrikersTwoGoalies (7)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6689367088318232523, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.01
-      objectReference: {fileID: 0}
-    - target: {fileID: 6689367088973521698, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_TagString
-      value: blueAgent
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720208258876680239, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720220312005169641, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720397545466523147, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6723135608590397689, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8273250869603581694, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c40505486226ac9458881275ff4109ba, type: 3}
---- !u!1001 &1558524349
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1513739405024476119, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1617609643154508832, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3160839723901724087, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 60
+      value: 57.8
       objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
@@ -919,74 +516,93 @@ PrefabInstance:
       propertyPath: m_Name
       value: FourStrikersTwoGoalies (6)
       objectReference: {fileID: 0}
-    - target: {fileID: 6689367088318232523, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.01
-      objectReference: {fileID: 0}
-    - target: {fileID: 6689367088973521698, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_TagString
-      value: blueAgent
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720208258876680239, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720220312005169641, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720397545466523147, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6723135608590397689, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8273250869603581694, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c40505486226ac9458881275ff4109ba, type: 3}
---- !u!1001 &1563409812
+--- !u!1001 &1528163142
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1513739405024476119, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1617609643154508832, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3160839723901724087, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 84.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688243709817351757, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_Name
+      value: FourStrikersTwoGoalies (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c40505486226ac9458881275ff4109ba, type: 3}
+--- !u!1001 &1573786037
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 50.4
       objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
@@ -1036,42 +652,76 @@ PrefabInstance:
     - target: {fileID: 6688243709817351757, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_Name
-      value: FourStrikersTwoGoalies (8)
+      value: FourStrikersTwoGoalies (4)
       objectReference: {fileID: 0}
-    - target: {fileID: 6689367088318232523, guid: c40505486226ac9458881275ff4109ba,
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c40505486226ac9458881275ff4109ba, type: 3}
+--- !u!1001 &1825715205
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.01
+      propertyPath: m_RootOrder
+      value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 6689367088973521698, guid: c40505486226ac9458881275ff4109ba,
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
-      propertyPath: m_TagString
-      value: blueAgent
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720208258876680239, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720220312005169641, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720397545466523147, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
+      propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6723135608590397689, guid: c40505486226ac9458881275ff4109ba,
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
-      propertyPath: position
+      propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8273250869603581694, guid: c40505486226ac9458881275ff4109ba,
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
+      propertyPath: m_LocalPosition.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688243709817351757, guid: c40505486226ac9458881275ff4109ba,
+        type: 3}
+      propertyPath: m_Name
+      value: FourStrikersTwoGoalies (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c40505486226ac9458881275ff4109ba, type: 3}
@@ -1207,37 +857,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &2137785725
+--- !u!1001 &2014240524
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1513739405024476119, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1617609643154508832, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3160839723901724087, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 50
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
@@ -1247,7 +882,7 @@ PrefabInstance:
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 59.4
       objectReference: {fileID: 0}
     - target: {fileID: 6684843556086353355, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
@@ -1287,42 +922,7 @@ PrefabInstance:
     - target: {fileID: 6688243709817351757, guid: c40505486226ac9458881275ff4109ba,
         type: 3}
       propertyPath: m_Name
-      value: FourStrikersTwoGoalies (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6689367088318232523, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.01
-      objectReference: {fileID: 0}
-    - target: {fileID: 6689367088973521698, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_TagString
-      value: blueAgent
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720208258876680239, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720220312005169641, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720397545466523147, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6723135608590397689, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: position
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8273250869603581694, guid: c40505486226ac9458881275ff4109ba,
-        type: 3}
-      propertyPath: m_BehaviorName
-      value: Striker
+      value: FourStrikersTwoGoalies (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c40505486226ac9458881275ff4109ba, type: 3}
